@@ -18,4 +18,7 @@ These algorithms are implemented from scratch to demonstrate fundamental sorting
 
 ---
 
-## 📂 Project Structure
+## Screenshot
+![Result](screenshot/sorting.png)
+
+
